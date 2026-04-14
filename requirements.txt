@@ -1,0 +1,17 @@
+# Core LLM / Fine-tuning
+transformers>=4.36.0
+peft>=0.7.0
+trl>=0.7.4
+bitsandbytes>=0.41.3
+accelerate>=0.25.0
+datasets>=2.16.0
+
+# OpenAI para geração do dataset
+openai>=1.6.0
+
+# Utilitários
+torch>=2.1.0
+scipy
+numpy
+pandas
+tqdm
